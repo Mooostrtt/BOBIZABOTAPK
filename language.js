@@ -10,7 +10,7 @@ if (fs.existsSync('./lib/language/' + global.LANG + '.json')) {
     var json = JSON.parse(fs.readFileSync('./lib/language/' + global.LANG + '.json'));
 } else {
     console.log(
-        chalk.red.bold('You entered an invalid language. English language was chosen.')
+        chalk.red.bold('You entered an invalid language. Arabic language was chosen.')
     );
 
     var json = JSON.parse(fs.readFileSync('./lib/language/EN.json'));
