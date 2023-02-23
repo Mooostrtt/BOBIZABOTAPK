@@ -26,13 +26,13 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  'BOBIZABOT' 
+global.botnma =  'Mustafa' 
 //👇 Your name
 global.ownernma =  'https://www.youtube.com/@vvvMostafevvv57012Ahmed' 
 //👇 Sticker package name
-global.packname =  'BOBIZA' 
+global.packname =  'Mustafa' 
 //👇 Sticker Author Name
-global.author =  '_NOUREDDINE_OUAFY_' 
+global.author =  'Mustafa' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
@@ -85,7 +85,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || true
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["212617741471"]
+global.NO_BLOCK = ["201030982295"]
 
 
 
@@ -97,9 +97,9 @@ global.NO_BLOCK = ["212617741471"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://www.youtube.com/@vvvMostafevvv57012Ahmed'
 //other
-global.pemilik = ['212617741471'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['212617741471'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = '_Noureddine Ouafy_' // Your name ඔබේ නම 
+global.pemilik = ['201030982295'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['201030982295'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '201030982295 // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
@@ -107,14 +107,14 @@ global.sp = '🔵'
 
 global.mess = {
     success: '✅ تم!',
-    admin: '*Only admins can use this command !*',
-    botAdmin: '*Please admin the bot first !*',
-    owner: '*Sorry, this command is only for the owner !*',
-    group: '*This command can only be used in groups !*',
-    private: '*This command can only be used in Inbox !*',
-    bot: '*This command can only be used by bot number !*',
+    admin: '*يمكن للمسؤولين فقط استخدام هذا الأمر !*',
+    botAdmin: '*الرجاء إدارة الروبوت أولا !*',
+    owner: '*عذرا ، هذا الأمر للمالك فقط !*',
+    group: '*لا يمكن استخدام هذا الأمر إلا في مجموعات !*',
+    private: '*لا يمكن استخدام هذا الأمر إلا في Inbox !*',
+    bot: '*لا يمكن استخدام هذا الأمر إلا من خلال رقم البوت !*',
     wait: '*♲ المرجو الانتظار قليلا سوف يتم تلبية طلبكم بعد قليل  تابعني هنا https://www.youtube.com/@vvvMostafevvv57012Ahmed ...*',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    endLimit: 'انتهت صلاحية الحد اليومي الخاص بك ، وسيتم إعادة تعيين الحد كل 12 ساعة',
     BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
     BLOCK : '',
     UNBLOCK : '',
