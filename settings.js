@@ -20,11 +20,11 @@ global.VOICE_REPLY =  'true'
 
 // You Bots Owner Number 
 
-global.owner = ['212617741471'] 
+global.owner = ['201030982295'] 
 
 //👇 Your Caption ( Image Video )
 
-global.cap = '© BOBIZA BOT ²⁰²³'
+global.cap = '© mostafa BOT ²⁰²³'
 
 //👇 Do you want show time on your bio use "on" want desable use "off"
 
@@ -44,19 +44,19 @@ global.ANTI_BADWORD =  'true'
 
 //👇 Your Bot Name
 
-global.botnma =  'BOBIZABOT' 
+global.botnma =  'mostafa' 
 
 //👇 Your name
 
-global.ownernma =  'instagram.com/noureddine_ouafy' 
+global.ownernma =  'https://www.youtube.com/@vvvMostafevvv57012Ahmed' 
 
 //👇 Sticker package name
 
-global.packname =  'BOBIZA' 
+global.packname =  'mostafa' 
 
 //👇 Sticker Author Name
 
-global.author =  '_NOUREDDINE_OUAFY_' 
+global.author =  '_mostafa_' 
 
 //👇 Kick And Auto Delete Group link Senders
 
@@ -82,11 +82,11 @@ global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
 
 //👇 Button 1 url 
 
-global.BUTTON1_URL = 'https://instagram.com/noureddine_ouafy'
+global.BUTTON1_URL = 'https://www.youtube.com/@vvvMostafevvv57012Ahmed'
 
 //👇 Button 2 url
 
-global.BUTTON2_URL = 'https://youtube.com/c/@noureddinenouafy2'
+global.BUTTON2_URL = 'https://www.youtube.com/@vvvMostafevvv57012Ahmed'
 
 //👇 Your Add Massage 
 
@@ -98,11 +98,11 @@ global.KICK_MSG = '*✅ Success Remove from Group*'
 
 //👇 Song Download Massage 
 
-global.SONG_DOWN = '```⬇️ جاري تحميل الموسيقى تابعني هنا instagram.com/noureddine_ouafy...```' 
+global.SONG_DOWN = '```⬇️ https://www.youtube.com/@vvvMostafevvv57012Ahmed...```' 
 
 //👇 Song Uplode massage 
 
-global.SONG_UP = '```⬆️ جاري الارسال   instagram.com/noureddine_ouafy...```'
+global.SONG_UP = '```⬆️ https://www.youtube.com/@vvvMostafevvv57012Ahmed...```'
 
 //👇 212 Number block
 
@@ -162,7 +162,7 @@ global.BLOCK_CMD_MESSAGE_SEND = false
 
 //👇 Desable PM Block
 
-global.NO_BLOCK = ["212617741471"]
+global.NO_BLOCK = ["201030982295"]
 
 //MORE
 
@@ -172,11 +172,11 @@ global.tiktokthub = 'https://telegra.ph/file/c0c8a7440635f381fe098.jpg'
 
 //other
 
-global.pemilik = ['212617741471'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.pemilik = ['201030982295'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 
 global.premium = ['212617741471'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 
-global.pengguna = '_Noureddine Ouafy_' // Your name ඔබේ නම 
+global.pengguna = '_mostafa_' // Your name ඔබේ නම 
 
 global.sessionName = 'session'
 
